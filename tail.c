@@ -77,7 +77,7 @@ int main(int argc, char *argv[])
     
     nlines = argc > 1 ? atoi(argv[1]) : MINLINES;
     
-    buffer_store = malloc(sizeof (char *) * nlines);
+    buffer_store = malloc(sizeof(char *) * nlines);
     buffer_size = 0;
     
     while (stop != 1)
