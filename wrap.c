@@ -6,7 +6,7 @@
 
 /*
     Wrap lines to MAXLEN
-    cat test.txt | ./wrap
+    Usage: cat test.txt | ./wrap
 */
 
 main()
