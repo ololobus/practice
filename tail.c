@@ -5,12 +5,12 @@
 #define STRLENINCREMENT 50
 #define MINLINES 5
 
-static int stop = 0;
-
 /*
     Get N last lines of the input stream
     Usage: cat test.txt | ./tail N
 */
+
+static int stop = 0;
 
 char *readline(int *stop)
 {

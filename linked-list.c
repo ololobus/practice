@@ -4,6 +4,10 @@
 #define MAXSTRLEN 15
 #define NODESCOUNT 3
 
+/*
+    Simple linked list
+*/
+
 struct ListNode
 {
     int val;

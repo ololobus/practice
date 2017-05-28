@@ -3,11 +3,11 @@
 
 #define MAXSTRLEN 150
 
-char string[MAXSTRLEN];
-
 /*
     Reverse keyboard input via recursion
 */
+
+char string[MAXSTRLEN];
 
 void reverse(char str[])
 {
