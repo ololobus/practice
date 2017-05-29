@@ -1,0 +1,1 @@
+A few C examples, which demonstrate: C syntax; how to work with pointers, build your own relatively fast and efficient `tail` utility; simple datastructures like Linked list, Doubly linked list (via Bitwise XOR links) and Binary tree.
