@@ -1,8 +1,8 @@
 A few C examples, which demonstrate: 
-    * C syntax;
-    * How to work with pointers;
-    * Build your own relatively fast and efficient `tail` utility;
-    * Simple datastructures like Linked list, Doubly linked list (via Bitwise XOR links) and Binary tree.
+ * C syntax;
+ * How to work with pointers;
+ * Build your own relatively fast and efficient `tail` utility;
+ * Simple datastructures like Linked list, Doubly linked list (via Bitwise XOR links) and Binary tree.
 
 ### Traverse C program memory up and down
 
